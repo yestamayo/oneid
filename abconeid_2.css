@@ -2856,48 +2856,49 @@ p {
 .workflow-deactivate .btn-secondary:not(.mobile):hover {
   background: transparent;
   color: #fff;
-  padding: 0;
+  padding: 0 0.625rem;
+  border-radius: 0;
   margin: 0 auto;
   top: -0.5625rem;
   height: 2.125rem;
   text-transform: capitalize;
 }
 
-/* line 1416, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
+/* line 1417, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
 .workflow-deactivate .btn-secondary:not(.mobile):hover {
   color: rgba(255, 255, 255, 0.8);
 }
 
-/* line 1419, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
+/* line 1420, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
 .workflow-deactivate .block.block-update-text p a {
   text-transform: capitalize;
 }
 
-/* line 1424, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
+/* line 1425, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
 .workflow-new button.btn-secondary {
   background: none;
   width: auto;
   color: #fff;
 }
 
-/* line 1429, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
+/* line 1430, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
 .workflow-new button.btn-secondary:hover {
   color: rgba(255, 255, 255, 0.8);
 }
 
-/* line 1435, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
+/* line 1436, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
 .workflow-marketing-opt-in .field .name {
   color: #fff;
 }
 
-/* line 1440, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
+/* line 1441, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
 .workflow-marketing-opt-in .field.field-email .value {
   color: #fff;
   font-weight: 200;
   font-size: 0.875rem;
 }
 
-/* line 1449, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
+/* line 1450, /var/www/web-php-alderaan-site-abc/src/main/assets/scss/modules/oneid/_modalbase.scss */
 .block-gating-message p strong {
   font-weight: 300;
 }
